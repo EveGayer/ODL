@@ -1,6 +1,12 @@
-div {
-	background-image: url("http://media.einfachtierisch.de/thumbnail/600/0/media.einfachtierisch.de/images/2013/01/Junge-Katze-Erziehen.jpg");
+div.jumbotron {
+	background-image: url("http://s3images.coroflot.com/user_files/individual_files/original_167270_7r2jggCTr8EdukS2qiPl_P3wd.jpg");
 	background-position: top;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+div.jumbotron img {
+	width: 100%;
 }
 
 p {
