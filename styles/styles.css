@@ -1,0 +1,22 @@
+div.jumbotron {
+	background-image: url("http://s3images.coroflot.com/user_files/individual_files/original_167270_7r2jggCTr8EdukS2qiPl_P3wd.jpg");
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+div.jumbotron img {
+	width: 100%;
+}
+
+p {
+	border-left: 1px  solid #880000;
+	text-indent:1em;
+	font-family: 'Lobster', cursive;
+	font-size: 14px;
+}
+
+h2 {
+	font-family: Tahoma, Arial, sans-serif;
+	font-size: 24px
+}
